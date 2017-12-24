@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+    <string name="resetButton">RESET</string>
+    <string name="containerImage" />
+    <string name="startButton">START</string>
+    <string name="timerTV">00:00:00</string>
+</resources>
